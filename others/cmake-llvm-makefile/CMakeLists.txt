@@ -9,6 +9,8 @@ project (winapi)
 file(GLOB_RECURSE src_list "src/*.c*")
 # Create a sources variable with a link to all cpp files to compile
 
+set(CMAKE_CXX_FLAGS "-std=c++11")
+
 # Add an executable with the above sources
 add_executable(winapi ${src_list})
 
