@@ -1,4 +1,4 @@
-## Runtime Versions and Platforms
+## 运行时的版本和平台
 
 存在几种不同版本的运行在不同平台上的 Objective-C 运行时.
 
