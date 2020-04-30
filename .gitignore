@@ -58,7 +58,7 @@ install_manifest.txt
 *.app
 
 /**/build
-/**/build.*
+/**/build.*/
 !/**/build.cmd
 
 .tags
