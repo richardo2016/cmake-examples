@@ -1,0 +1,1 @@
+clang --verbose -target x86_64-pc-windows-gnu test.c -otest.exe
